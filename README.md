@@ -12,3 +12,4 @@ Adding more changes
 ## How to contribute
 
 2020 Copyright
+All rights reserved
