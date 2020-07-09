@@ -9,3 +9,5 @@ This repository is for showing how Git and GitHub work
 ## Deployment
 
 ## How to contribute
+
+2020 Copyright
