@@ -3,8 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+	Just me 
+	
 # THANKS
 
 	Thanks to all my friends
