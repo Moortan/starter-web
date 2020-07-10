@@ -12,4 +12,4 @@ Adding more changes to multiple stash
 ## How to contribute
 
 2020 Copyright
-All rights reserved . dot
+All rights reserved.
