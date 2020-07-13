@@ -13,3 +13,4 @@ Adding more changes to multiple stash
 
 2020 Copyright
 All rights reserved.dot
+Adding new line
